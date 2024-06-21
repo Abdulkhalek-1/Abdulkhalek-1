@@ -11,13 +11,9 @@
   <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22281407/abdulkhalek" target="blank"><img
+  <a href="https://stackoverflow.com/users/24052957/abdulkhalek-muhammad" target="blank"><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="https://stackoverflow.com/users/22281407/abdulkhalek" height="30" width="40" /></a>
-  <a href="https://medium.com/@abdulkhalek.muhammad.work" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@abdulkhalek.muhammad.work" height="30" width="40" /></a>
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@eng-abdulkhalek" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="@eng-abdulkhalek" height="30" width="40" /></a>
