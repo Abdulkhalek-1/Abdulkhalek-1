@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Learning-Platform](https://github.com/Abdulkhalek-1/Learning-Platform)
 
-- 🌱 I’m currently learning **react, rabbitmq, Protocol Buffers**
-
 
 - 📫 How to reach me **abdulkhalek.muhammad.work@gmail.com**
 
