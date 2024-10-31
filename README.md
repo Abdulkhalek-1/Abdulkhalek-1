@@ -123,7 +123,7 @@ to reach me **abdulkhalek.muhammad.work@gmail.com**
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"
       alt="flask"
       width="40"
       height="40"
