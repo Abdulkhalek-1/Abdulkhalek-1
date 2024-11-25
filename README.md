@@ -131,7 +131,7 @@ to reach me **abdulkhalek.muhammad.work@gmail.com**
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png"
+      src="https://github.com/laravel/art/blob/master/logo-mark/4%20PNG/1%20PMS/laravel-mark-PMS-red-1788C.png?raw=true"
       alt="laravel"
       width="40"
       height="40"
