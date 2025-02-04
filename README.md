@@ -242,3 +242,7 @@ to reach me **abdulkhalek.muhammad.work@gmail.com**
     />
   </a>
 </p>
+
+<hr/>
+<h2>My Progress in roadmap.sh</h2>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65e77d28d8455747573b5030?variant=dark" alt="roadmap.sh"/></a>
