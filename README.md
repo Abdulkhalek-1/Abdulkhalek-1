@@ -245,4 +245,4 @@ to reach me **abdulkhalek.muhammad.work@gmail.com**
 
 <hr/>
 <h2>My Progress in roadmap.sh</h2>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65e77d28d8455747573b5030?variant=dark&roadmaps=linux%2Cbackend%2Ccomputer-science%2Ccpp" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65e77d28d8455747573b5030?variant=dark&roadmaps=linux%2Cbackend%2Ccomputer-science%2Ccpp" alt="roadmap.sh"/></a>
