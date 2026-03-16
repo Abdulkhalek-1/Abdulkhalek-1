@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on
 [Learning-Platform](https://github.com/Abdulkhalek-1/Learning-Platform) - 📫 How
-to reach me **abdulkhalek.muhammad.work@gmail.com**
+to reach me **work@abdulkhalek.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
