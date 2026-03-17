@@ -1,15 +1,10 @@
 <h1 align="center">Hey, I'm Abdulkhalek 👋</h1>
 <h3 align="center">Backend Software Engineer &nbsp;·&nbsp; APIs, SaaS & Distributed Systems &nbsp;·&nbsp; Egypt</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdulkhalek-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-Backend software engineer with 3–5 years of experience building APIs, SaaS platforms, and e-commerce systems. I focus on the things that actually matter in production: clean API contracts, efficient database queries, Redis caching, and architectures that don't fall apart under load.
+Backend software engineer with 3 years of experience building APIs, SaaS platforms, and e-commerce systems. I focus on the things that actually matter in production: clean API contracts, efficient database queries, Redis caching, and architectures that don't fall apart under load.
 
 My stack is Node.js, Laravel, and Django on the server - PostgreSQL, Redis, and Docker in production - running on Linux. I live in the terminal, and I care as much about how a system is designed as whether it works. I can write frontend code when needed, but the backend is where I think clearly.
 
