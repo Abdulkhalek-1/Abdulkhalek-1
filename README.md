@@ -24,15 +24,13 @@ Outside of work, I tinker with Linux environments (Fedora, KVM), share what I le
 
 ## 🛠️ Languages & Tools
 
-**Frontend** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte" alt="Frontend Skills" height="32" /></a>
-
-**Backend** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,py,django,flask,graphql" alt="Backend Skills" height="32" /></a>
-
-**Databases** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Database Skills" height="32" /></a>
-
-**DevOps & Infrastructure** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash" alt="DevOps Skills" height="32" /></a>
-
-**Other Languages** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt" alt="Other Language Skills" height="32" /></a>
+| Category | Icons |
+|---|---|
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte" alt="Frontend Skills" height="32" /></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,py,django,flask,graphql" alt="Backend Skills" height="32" /></a> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Database Skills" height="32" /></a> |
+| **DevOps & Infrastructure** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash" alt="DevOps Skills" height="32" /></a> |
+| **Other Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt" alt="Other Language Skills" height="32" /></a> |
 
 ---
 
