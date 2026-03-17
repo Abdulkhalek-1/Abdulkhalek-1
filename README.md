@@ -1,183 +1,77 @@
-<h1 align="center">Hi 👋, I'm Abdulkhalek</h1>
-<h3 align="center">A passionate Full-stack developer from Egypt</h3>
+<h1 align="center">Hey, I'm Abdulkhalek 👋</h1>
+<h3 align="center">Backend Software Engineer &nbsp;·&nbsp; APIs, SaaS & Distributed Systems &nbsp;·&nbsp; Egypt</h3>
 
-- 🔭 I’m currently working on
-[Learning-Platform](https://github.com/Abdulkhalek-1/Learning-Platform) - 📫 How
-to reach me **work@abdulkhalek.dev**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://stackoverflow.com/users/22281407/abdulkhalek"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.youtube.com/@eng-abdulkhalek" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="@eng-abdulkhalek"
-      height="30"
-      width="40"
-  /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulkhalek-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 👨‍💻 About Me
+
+Backend software engineer with 3–5 years of experience building APIs, SaaS platforms, and e-commerce systems. I focus on the things that actually matter in production: clean API contracts, efficient database queries, Redis caching, and architectures that don't fall apart under load.
+
+My stack is Node.js, Laravel, and Django on the server - PostgreSQL, Redis, and Docker in production - running on Linux. I live in the terminal, and I care as much about how a system is designed as whether it works. I can write frontend code when needed, but the backend is where I think clearly.
+
+Outside of work, I tinker with Linux environments (Fedora, KVM), share what I learn on YouTube, and contribute to open-source projects.
+
+---
+
+## 🚀 What I'm Up To
+
+- 🌱 Currently configuring permanent KVM virtualization environments on Linux and building lightweight, modern testing bots.
+- 🔭 Always exploring better patterns for scaling backend architecture.
+- 💬 Ask me about: REST/GraphQL API design, optimizing databases, or Linux system admin (especially Fedora).
+- 📫 Reach me at: **work@abdulkhalek.dev**
+
+---
+
+## 🛠️ Languages & Tools
+
+**Frontend** [![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte)](https://skillicons.dev)
+
+**Backend** [![Backend Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,py,django,flask,graphql)](https://skillicons.dev)
+
+**Databases** [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
+
+**DevOps & Infrastructure** [![DevOps Skills](https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash)](https://skillicons.dev)
+
+**Other Languages** [![Other Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkhalek-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdulkhalek's GitHub stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkhalek-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkhalek-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulkhalek-1&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
-
-  <!-- 🌐 Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" />
+  <a href="https://stackoverflow.com/users/22281407/abdulkhalek" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-      width="40" height="40" />
+  <a href="https://www.youtube.com/@eng-abdulkhalek" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 5px; margin-left: 5px;" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-      height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" />
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40"
-      height="40" />
-  </a>
-
-  <!-- ⚙️ Backend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-      height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/laravel/art/blob/master/logo-mark/4%20PNG/1%20PMS/laravel-mark-PMS-red-1788C.png?raw=true"
-      alt="laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask" width="40" height="40" />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-  </a>
-
-  <!-- 🗄️ Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis" width="40" height="40" />
-  </a>
-
-  <!-- 🛠️ DevOps / Infra -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-      width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-
-  <!-- 🖥️ Other Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-      width="40" height="40" />
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-      height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
-      width="40" height="40" />
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" />
-  </a>
-
 </p>
