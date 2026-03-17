@@ -24,15 +24,15 @@ Outside of work, I tinker with Linux environments (Fedora, KVM), share what I le
 
 ## 🛠️ Languages & Tools
 
-**Frontend** [![Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte)](https://skillicons.dev)
+**Frontend** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte" alt="Frontend Skills" height="32" /></a>
 
-**Backend** [![Backend Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,py,django,flask,graphql)](https://skillicons.dev)
+**Backend** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,py,django,flask,graphql" alt="Backend Skills" height="32" /></a>
 
-**Databases** [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
+**Databases** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Database Skills" height="32" /></a>
 
-**DevOps & Infrastructure** [![DevOps Skills](https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash)](https://skillicons.dev)
+**DevOps & Infrastructure** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash" alt="DevOps Skills" height="32" /></a>
 
-**Other Languages** [![Other Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt)](https://skillicons.dev)
+**Other Languages** <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt" alt="Other Language Skills" height="32" /></a>
 
 ---
 
@@ -62,7 +62,7 @@ Outside of work, I tinker with Linux environments (Fedora, KVM), share what I le
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" />
   </a>
   <a href="https://www.youtube.com/@Abdulkhalek-Muhammad" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 5px; margin-left: 5px;" />
