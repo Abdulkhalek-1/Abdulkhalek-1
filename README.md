@@ -64,10 +64,7 @@ Outside of work, I tinker with Linux environments (Fedora, KVM), share what I le
   <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/22281407/abdulkhalek" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.youtube.com/@eng-abdulkhalek" target="blank">
+  <a href="https://www.youtube.com/@Abdulkhalek-Muhammad" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 5px; margin-left: 5px;" />
   </a>
 </p>
