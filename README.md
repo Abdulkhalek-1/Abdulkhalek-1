@@ -1,60 +1,92 @@
-<h1 align="center">Hey, I'm Abdulkhalek 👋</h1>
-<h3 align="center">Backend Software Engineer &nbsp;·&nbsp; APIs, SaaS & Distributed Systems &nbsp;·&nbsp; Egypt</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7B8CDE&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdulkhalek+%F0%9F%91%8B;Backend+Software+Engineer;APIs+%C2%B7+SaaS+%C2%B7+Distributed+Systems" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@Abdulkhalek-Muhammad">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:work@abdulkhalek.dev">
+    <img src="https://img.shields.io/badge/work@abdulkhalek.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-Backend software engineer with 3 years of experience building APIs, SaaS platforms, and e-commerce systems. I focus on the things that actually matter in production: clean API contracts, efficient database queries, Redis caching, and architectures that don't fall apart under load.
+Backend engineer with **3 years of experience** designing and shipping APIs, SaaS platforms, and e-commerce systems. I care about the things that matter in production: clean API contracts, efficient queries, Redis caching strategies, and architectures built to scale.
 
-My stack is Node.js, Laravel, and Django on the server - PostgreSQL, Redis, and Docker in production - running on Linux. I live in the terminal, and I care as much about how a system is designed as whether it works. I can write frontend code when needed, but the backend is where I think clearly.
+My primary stack is **Node.js and Django** on the server — **PostgreSQL, Redis, and Docker** in production — all running on Linux. I think in systems, live in the terminal, and I'm as invested in how something is designed as whether it works.
 
-Outside of work, I tinker with Linux environments (Fedora, KVM), share what I learn on YouTube, and contribute to open-source projects.
-
----
-
-## 🚀 What I'm Up To
-
-- 🌱 Currently configuring permanent KVM virtualization environments on Linux and building lightweight, modern testing bots.
-- 🔭 Always exploring better patterns for scaling backend architecture.
-- 💬 Ask me about: REST/GraphQL API design, optimizing databases, or Linux system admin (especially Fedora).
-- 📫 Reach me at: **work@abdulkhalek.dev**
+I can write frontend code when the job demands it, but backend engineering is where I do my best thinking.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-| Category | Icons |
-|---|---|
-| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte" alt="Frontend Skills" height="32" /></a> |
-| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,laravel,py,django,flask,graphql" alt="Backend Skills" height="32" /></a> |
-| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" alt="Database Skills" height="32" /></a> |
-| **DevOps & Infrastructure** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash" alt="DevOps Skills" height="32" /></a> |
-| **Other Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt" alt="Other Language Skills" height="32" /></a> |
+<table>
+  <tr>
+    <td align="center" width="140"><strong>Frontend</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte" height="32" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,py,django,flask,graphql" height="32" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" height="32" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash" height="32" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Other</strong></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulkhalek-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdulkhalek's GitHub stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulkhalek-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulkhalek-1&theme=tokyonight" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulkhalek-1&theme=tokyonight" height="160" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkhalek-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" />
-  </a>
-  <a href="https://www.youtube.com/@Abdulkhalek-Muhammad" target="blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 5px; margin-left: 5px;" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkhalek-1&theme=tokyonight&hide_border=true" />
+</div>
