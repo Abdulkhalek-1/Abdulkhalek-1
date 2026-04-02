@@ -16,6 +16,10 @@
   <a href="mailto:work@abdulkhalek.dev">
     <img src="https://img.shields.io/badge/work@abdulkhalek.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://abdulkhalek.dev" target="_blank">
+    <img src="https://img.shields.io/badge/abdulkhalek.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 </div>
