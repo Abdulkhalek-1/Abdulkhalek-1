@@ -30,7 +30,7 @@
 
 Backend engineer with **3 years of experience** designing and shipping APIs, SaaS platforms, and e-commerce systems. I care about the things that matter in production: clean API contracts, efficient queries, Redis caching strategies, and architectures built to scale.
 
-My primary stack is **Node.js and Django** on the server — **PostgreSQL, Redis, and Docker** in production — all running on Linux. I think in systems, live in the terminal, and I'm as invested in how something is designed as whether it works.
+My primary stack is **Node.js and Django** on the server **PostgreSQL, Redis, and Docker** in production all running on Linux. I think in systems, live in the terminal, and I'm as invested in how something is designed as whether it works.
 
 I can write frontend code when the job demands it, but backend engineering is where I do my best thinking.
 
