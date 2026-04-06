@@ -84,13 +84,6 @@ I can write frontend code when the job demands it, but backend engineering is wh
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulkhalek-1&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulkhalek-1&theme=tokyonight" height="160" />
-</div>
-
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkhalek-1&theme=tokyonight&hide_border=true" />
 </div>
