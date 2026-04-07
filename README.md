@@ -37,13 +37,12 @@ I can write frontend code when the job demands it, but backend engineering is wh
 ---
 
 ## 🛠️ Tech Stack
-
 <table>
   <tr>
     <td align="center" width="140"><strong>Frontend</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,svelte" height="32" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,astro,vite" height="32" />
       </a>
     </td>
   </tr>
@@ -51,7 +50,7 @@ I can write frontend code when the job demands it, but backend engineering is wh
     <td align="center"><strong>Backend</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,php,py,django,flask,graphql" height="32" />
+        <img src="https://skillicons.dev/icons?i=ts,express,php,py,django,flask,graphql,go" height="32" />
       </a>
     </td>
   </tr>
@@ -59,7 +58,7 @@ I can write frontend code when the job demands it, but backend engineering is wh
     <td align="center"><strong>Databases</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" height="32" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,cassandra,elasticsearch" height="32" />
       </a>
     </td>
   </tr>
@@ -67,7 +66,7 @@ I can write frontend code when the job demands it, but backend engineering is wh
     <td align="center"><strong>DevOps</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash" height="32" />
+        <img src="https://skillicons.dev/icons?i=docker,nginx,aws,git,linux,bash,githubactions" height="32" />
       </a>
     </td>
   </tr>
@@ -75,7 +74,7 @@ I can write frontend code when the job demands it, but backend engineering is wh
     <td align="center"><strong>Other</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,cs,qt" height="32" />
+        <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,qt,arduino" height="32" />
       </a>
     </td>
   </tr>
