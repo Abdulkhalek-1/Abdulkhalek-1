@@ -80,9 +80,11 @@ I can write frontend code when the job demands it, but backend engineering is wh
   </tr>
 </table>
 
+<!--
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulkhalek-1&theme=tokyonight&hide_border=true" />
 </div>
+-->
