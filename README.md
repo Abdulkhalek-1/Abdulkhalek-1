@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/abdulkhalek-muhammad-86b9a3290/">
+  <a href="https://www.linkedin.com/in/abdulkhalek-muhammad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -28,29 +28,32 @@
 
 ## 🧠 About Me
 
-Backend engineer with **3 years of experience** designing and shipping APIs, SaaS platforms, and e-commerce systems. I care about the things that matter in production: clean API contracts, efficient queries, Redis caching strategies, and architectures built to scale.
+Backend engineer who makes slow Python systems fast and adds AI to existing backends. I work mainly in **Django / DRF, FastAPI and Go**, with **PostgreSQL, Redis, Celery and Docker** in production.
 
-My primary stack is **Node.js and Django** on the server **PostgreSQL, Redis, and Docker** in production all running on Linux. I think in systems, live in the terminal, and I'm as invested in how something is designed as whether it works.
+- Cut a critical Django page from **120 s to 7 s** without a rewrite (N+1 queries removed, targeted PostgreSQL indexes)
+- Sustained **1,000+ requests/second** on a real-time endpoint by buffering writes in Redis
+- Built and maintain the Django backend of a digital-license platform serving **100k+ customers**, covered by 3,876 automated tests
+- Author of **[drf-mcp-docs](https://github.com/Abdulkhalek-1/drf-mcp-docs)**, an MCP server that gives AI coding agents (Claude Code, Cursor) your DRF API docs
 
-I can write frontend code when the job demands it, but backend engineering is where I do my best thinking.
+Full-Stack Software Engineer at DS-Mate. Open to small, fixed-price backend projects: **[abdulkhalek.dev](https://abdulkhalek.dev)**
 
 ---
 
 ## 🛠️ Tech Stack
 <table>
   <tr>
-    <td align="center" width="140"><strong>Frontend</strong></td>
+    <td align="center" width="140"><strong>Backend</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,astro,vite" height="32" />
+        <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,flask,ts,express,graphql,php" height="32" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,express,php,py,django,flask,graphql,go" height="32" />
+        <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,astro,vite" height="32" />
       </a>
     </td>
   </tr>
